@@ -12,5 +12,5 @@ require('style!css!sass!applicationStyles')
 //   document.getElementById('app')
 // );
 
-// require('app/redux-example');
-require('app/redux-todo-example');
+require('app/redux-example');
+//require('app/redux-todo-example');
